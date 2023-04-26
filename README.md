@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @kusson
-- 👀 I’m interested in mobile application development.
-- 🌱 I’m currently learning Python, Dart and front-end Web development.
+Hi, this is Kusson.
+
+I am a self-taught web developer who focus on frontend development at the moment.
+
+Proficient in HTML, CSS and Javascript, React and Bootstrap for frontend development, and developing backend skill with Node.js, Express.js, Mongo and MySQL.
+
+Currently, I have a project working on a company website, and looking to build a webapp to enhance it's features.
+
+I aim to become a fullstack developer in the coming year.
+
 
 
 <!---
